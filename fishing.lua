@@ -548,7 +548,7 @@ ShopTab:Button({
             end
         end
         Window:Notify({
-            Title = "zzz hub",
+            Title = "xtreme hub",
             Desc = "All codes redeemed!",
             Time = 3
         })
@@ -656,7 +656,7 @@ AreaTab:Dropdown({
 
 -- Final Notification
 Window:Notify({
-    Title = "zzz hub",
-    Desc = "Go Fishing script loaded successfully! by ktro",
+    Title = "xtreme hub",
+    Desc = "Go Fishing script loaded successfully! by xtreme",
     Time = 4
 })
